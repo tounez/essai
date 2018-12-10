@@ -1,0 +1,15 @@
+# initialiser un dépot git, dans un répertoire existant:
+git init
+
+# démarer le controle de version:
+# suivre, indexer ou résoudre conflit:
+git add
+# validé modification
+git commit -m 'initial project version'
+
+# cloner un dépot existant:
+git clone https://github.com/libgit2/libgit2
+git clone <source> <destination>
+
+# vérifier l'état des fichiers:
+git status
