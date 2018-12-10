@@ -1,4 +1,7 @@
-# essai
-j'apprends
+# Exercice 
 
-Petit à petit, l'oiseau fait son nid !
+création d'un repository "essai" avec :
+
+un fichier README.md
+
+un fichier notes.txt et un autre book.txt
